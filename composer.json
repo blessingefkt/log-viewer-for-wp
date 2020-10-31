@@ -1,0 +1,30 @@
+{
+  "name": "blessingefkt/wp-log-viewer",
+  "description": "A fork of Log Viewer By Markus Fischbacher",
+  "homepage": "https://github.com/blessingefkt/wp-log-viewer",
+  "keywords": [
+    "wordpress",
+    "logs"
+  ],
+  "type": "wordpress-plugin",
+  "license": "GPL-2.0-or-later",
+  "authors": [
+    {
+      "name": "Blessing",
+      "email": "blessing@sayla.co",
+      "homepage": "https://github.com/blessingefkt"
+    }
+  ],
+  "config": {
+    "platform": {
+      "php": "7.1"
+    }
+  },
+  "require": {
+    "composer/installers": "~1.0"
+  },
+  "require-dev": {
+  },
+  "scripts": {
+  }
+}
