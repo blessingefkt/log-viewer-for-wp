@@ -2,8 +2,8 @@
 Tags: debug, log, advanced, admin
 Tested up to: 5.5.3
 Requires at least: 3.4
-Stable Tag: 2020.10.30
-Latest Version: 2020.10.30
+Stable Tag: 1.0.0
+Latest Version: 1.0.0
 Contributors:
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html

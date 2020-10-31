@@ -1,9 +1,4 @@
 <?php
-/*
- Tag: 2013.05.19
- Version: 2013.05.19
- Timestamp: 2013.05.19.0054
- */
 
 if (!function_exists('add_action')) {
 	header('Status: 403 Forbidden');
