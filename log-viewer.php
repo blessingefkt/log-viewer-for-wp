@@ -1,7 +1,7 @@
 <?php
 /*
  Plugin Name: Log Viewer
- Plugin URI: https://github.com/blessingefkt/wp-log-viewer
+ Plugin URI: https://github.com/blessingefkt/log-viewer-for-wp
  Description: This plugin provides an easy way to view log files directly in the admin panel.
  Author: blessingefkt
  Author URI: https://www.blessingeffect.dev/
